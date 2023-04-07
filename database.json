@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "address": true,
+      "title": "Nấu cơm"
+    },
+    {
+      "id": 2,
+      "address": true,
+      "title": "Nấu cơm"
+    },
+    {
+      "id": 3,
+      "address": true,
+      "title": "Nấu chao"
+    },
+    {
+      "id": 4,
+      "address": false,
+      "title": "Chơi cầu lông"
+    }
+  ]
+}
